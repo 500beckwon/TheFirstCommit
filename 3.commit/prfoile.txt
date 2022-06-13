@@ -1,2 +1,2 @@
-email :
-gitID :
+email : kjsx50@gncomms.com
+gitID : 500beckwon
